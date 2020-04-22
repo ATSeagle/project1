@@ -6,8 +6,8 @@
 4,talk
 5,walks
 6,say
-7,"""sit"
-8,"talk"""
+7,sit
+8,talk
 9,smiles
 10,politely
 11,back
@@ -161,8 +161,7 @@
 159,known
 160,save
 161,life
-162,outro
-163,save
-164,life
-165,save
-166,life
+162,save
+163,life
+164,save
+165,life
