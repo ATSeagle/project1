@@ -6,4 +6,5 @@
 - Genius jpynb to retrieve year and lyrics for each track -ONGOING: Amanda is working on it to retrieve y for all tracks
 - Song_lyrics jpynb to analyze lyrics -work in progress-
 - Retrieve_lyrics jpynb: from Amanda's cleanish_lyrics.csv, retrieved and ripopulated lyrics column --> create song_with_lyrics.csv -DONE?
-- Lyrics_analysis jpynb: analysis of lyrics for all songs. ouput df.csv for each lyric in Lyrics folder
+- Lyrics_analysis_w_wordcount.ipynb: UPDATED analysis of lyrics for all songs. ouput df.csv for each lyric in Lyrics folder
+			update: word count analysis (REPLACES: old Lyrics_analysis.ipynb)
