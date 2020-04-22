@@ -8,3 +8,6 @@
 - Retrieve_lyrics jpynb: from Amanda's cleanish_lyrics.csv, retrieved and ripopulated lyrics column --> create song_with_lyrics.csv -DONE?
 - Lyrics_analysis_w_wordcount.ipynb: UPDATED analysis of lyrics for all songs. ouput df.csv for each lyric in Lyrics folder
 			update: word count analysis (REPLACES: old Lyrics_analysis.ipynb)
+
+- Lyrics_analysis_wordcount_final_LC.ipynb: UPDATED Lyrics_analysis_w_wordcount.ipynb with word count analysis + plots
+- Final_script.ipynb: final comprehensive script, for presentation
