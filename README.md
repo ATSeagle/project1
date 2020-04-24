@@ -1,13 +1,10 @@
-# project1
+# Content of master branch
 
-*---Lorenza---*
+- Final_script.jpynb: notebook with entire script for data retrieval, cleanup and analysis. Different sections are marked down 
+- .gitignore: to hide file with api keys
 
-- LastFM jpynb to retrieve top 1000 love songs (track, artist, album, duration) -DONE?
-- Genius jpynb to retrieve year and lyrics for each track -ONGOING: Amanda is working on it to retrieve y for all tracks
-- Song_lyrics jpynb to analyze lyrics -work in progress-
-- Retrieve_lyrics jpynb: from Amanda's cleanish_lyrics.csv, retrieved and ripopulated lyrics column --> create song_with_lyrics.csv -DONE?
-- Lyrics_analysis_w_wordcount.ipynb: UPDATED analysis of lyrics for all songs. ouput df.csv for each lyric in Lyrics folder
-			update: word count analysis (REPLACES: old Lyrics_analysis.ipynb)
+- Results folder: store output files
+	- csv folder: different csv generated during data retrieval
+	- lyrics folder: csv generated for each song to store cleaned lyrics
+	- plots folder: png files of all plot generated (matplotlib and seaborn)
 
-- Lyrics_analysis_wordcount_final_LC.ipynb: UPDATED Lyrics_analysis_w_wordcount.ipynb with word count analysis + plots
-- Final_script.ipynb: final comprehensive script, for presentation
