@@ -8,3 +8,4 @@
 	- lyrics folder: csv generated for each song to store cleaned lyrics
 	- plots folder: png files of all plot generated (matplotlib and seaborn)
 
+- Report: write-up summarizing our major findings
